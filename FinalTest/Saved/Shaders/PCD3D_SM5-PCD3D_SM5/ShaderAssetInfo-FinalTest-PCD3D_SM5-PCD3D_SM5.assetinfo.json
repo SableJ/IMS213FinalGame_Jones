@@ -1,0 +1,2680 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "B52E1F00CCAED807C15A9AFC0F76A287B1CC8E00",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7E155200A4A3E3CFEFE9F99B945982E43006267A",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_BeamA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_AngelRafterA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_AngelRafterB"
+			]
+		},
+		{
+			"ShaderMapHash": "BFC2020112554820F44804D9A19E3890064916E2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "FB0528013105C847F2F97AFDC8C306EC02BE0B50",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Transmission_Material/M_MS_Default_Transmission_Material",
+				"/Game/MSPresets/M_MS_Default_Transmission_Material_VT/M_MS_Default_Transmission_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "625830030CBE8E82C26EA88D708299F438FBED0B",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "F82DF1041910D5831C71AA95B33095AAF1FFC868",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Primary_EvasiveTrail_Inst",
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Primary_OffensiveTrail_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5F1205A792DB0D2E63E352DED5402A5C6B1241",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8C3B950704A85A450776A486C160AD6D96100152",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/Foliage_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "583E3F09DA130AB2150236D4F6D187879634780A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "876A8509ADF6983AB6127289CBBB7B94B128028C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2C07FD09CD09910B511BFC1E8A07FA707D4CD214",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetVertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2584050DEE35A89A0F011B892730EFB3C2790287",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Constellations_Lines"
+			]
+		},
+		{
+			"ShaderMapHash": "26D3BD0D087F265A1F89E10187E61486707E45E3",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_LowerFabric"
+			]
+		},
+		{
+			"ShaderMapHash": "1490130E687F34909CADDD5949EBEB8C528DEE04",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Shockwaves/m_SimpleRingSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "0A2F300EF47B69E8CAADC0970A0E95329F2CF3E1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Armor_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "7796810EF6D19D6B0E37FFB68CA4D5E556973A2B",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Face"
+			]
+		},
+		{
+			"ShaderMapHash": "0E9B870EE770F0A6757B3651F19E1CF8527C81E8",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "8FF0930EE4FDB509AB26AAB96F7FEEEC8A8DF503",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_WukongRocks"
+			]
+		},
+		{
+			"ShaderMapHash": "0B04B40E49BD5E920A5D27E53A91106ABB3C8987",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "58B1C50E2263C3F7A093B4636964549D4751AE2E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6394000F8741FC9ED257EBE54F65DA3A75680CC4",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_WindSplines_GreatSage_Wukong_Glowing_Inst02"
+			]
+		},
+		{
+			"ShaderMapHash": "09DD210F318F878C16632C41C43EB458C906A0F7",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material",
+				"/Game/MSPresets/M_MS_Default_Material_VT/M_MS_Default_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "5DC36F11AB19B1322289BF99D31E0BD986EB05C6",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Fire/M_FX_Fire_Flamethrower_SubUV_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E440DE1159FCE6B8067F5330703A6F5BDB88062F",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_WukongHair_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "F054F611C1D0DB0CF5E64624CDB40F0305465073",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5CD90E1218FE2BC26E44705469763671EB05FDCD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3ADE1412CC70C9806F7A284DB274E2A03578B201",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Face_Royalty"
+			]
+		},
+		{
+			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "D98A3D135B85E8564BCD18ECDD73956270AE21FE",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "EDA38E141FC908E57B2CE00895E9402F4985E7F1",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_WukongCloud_FakeLitParticles"
+			]
+		},
+		{
+			"ShaderMapHash": "62495B15E2A6DD725D724F87302AEA01A9ADA9BA",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material",
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material_VT/M_MS_Default_Fuzz_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "9D1EC815FCFE026ABCC343AD71D6F5DB7E15C7E3",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2D5634161D59EADF422A7C3E38F5D2F76D1D21E4",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Door_InHandle",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Door_Iron",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Door_OutHandle",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_GreenWood_Steel",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Door_Iron",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_GreenWood_Steel",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Deulsoe",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Door_Iron",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_InDoor_Handle",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_InDoor_Iron",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inside_Door_Handle",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_iron"
+			]
+		},
+		{
+			"ShaderMapHash": "BC4D5118E02591D8E1A822CF71224208F61CFFDA",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "ED3C7F18149F614CCCBAF4C23342728E4306A946",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "F10CED186897F9029C85BCB5D3639ED9DAECA1F1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Face"
+			]
+		},
+		{
+			"ShaderMapHash": "92E1FE18A34714691A28FAFBFAD6F8275892BF42",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/BrushDecal_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5F101B19D5EE4D07BF130307782FACE1983FD147",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "7DCEDD194628612AD7990A7AB6015D79AC38DAFF",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_DebrisChunks_FakeLit"
+			]
+		},
+		{
+			"ShaderMapHash": "1229111AD1FA5C1524CAFD011BD969AEC09DB709",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "0F6D531A758BF6FD790D87294DA8DB0F7A886F60",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Tail"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8A791A0C9323C319E97D08152C57BB18AE4A8F",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Smoke/M_DustKickup_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "5F9CF01A4C182A582104773D8E04882C96C88CB8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_LowerBody_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "0A64201B4A93616DE7542BBE4A9FBBB49A830C13",
+			"Assets": [
+				"/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
+				"/Game/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "3BB43C1BD1DE8D66FCE4D7F47FA7E493DD8D0038",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "690F911CF32FE4ACF2326FD5C68D0B8ABE7E0EA6",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material",
+				"/Game/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "2214971C319EFA0018DC5E08B92FD6BB10E4021A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_ScifiRadius"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "26130621326E643DE16B1FD5E1507983025B44C7",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FE61F32148BA2B4C5060FEF1258AD75DD7D258A6",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Lensflare_TB_SoftGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "AF2AD222EFFEE424B4E4A95EE4D4DE5CFF8B6911",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "BB736223E0278F5450537C9F12E971F45FC742D4",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_ParticleDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "FA8C77231791CA6733C872C0FA2599FA885EBFE3",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Smoke/WispySmokeSoft/M_DustSoft"
+			]
+		},
+		{
+			"ShaderMapHash": "6C7B6124D510F67D5BD0986A5FD02DF60D676B70",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_WaterImpact_Strand"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D07B2414C9797BD73AE78B66B18D488158E767",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "8D24DF24D7A48EF9B9313973A777BB18C2402851",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "9971F1244CEB5FFE0BB406B3DBA0DDCFF9EDB3A2",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_TearDuct_2_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "B5DFA52514D55F1C42FDAEC7029D53542841E7F0",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Eye_Occlusion_Wukong"
+			]
+		},
+		{
+			"ShaderMapHash": "801E3626E1E716E0323F49EAC6EA7D4C86218E5C",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "6B86BB2651955AE7EAF1E498A939A050C718A3FA",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Face"
+			]
+		},
+		{
+			"ShaderMapHash": "751D1A27A2F3344A9AFE8AD9ACD0C74835496D93",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_LowerFabric"
+			]
+		},
+		{
+			"ShaderMapHash": "6B087627966B66EC444186BFB3E28A0A5A44FB81",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "8A440A28073F8FFBA4CE78BC597A0A5503C3EA0A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5F5BE8286C79714097D765141A8D88EA5B4BE67E",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/Atlas_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "411B5729DDD0DADD40092C60F32D204368699720",
+			"Assets": [
+				"/Engine/EditorMaterials/Cloth/CameraLitVertexColor"
+			]
+		},
+		{
+			"ShaderMapHash": "727A6B2AA7AFCE9E2F4D561A450743A24FF23A79",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "E54CC12A207CB9340FC7BB85DC76DBCFD77B3D43",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Face_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "19F2432BD65FDC30CC8A8476629F88F56E10EFBB",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Hair_Fury",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_SimhairHair_Fury_Inst",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_SimHair",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Hair",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Hair_Royalty"
+			]
+		},
+		{
+			"ShaderMapHash": "A9B1522E1AD02FC63B0527736783C620D192E56E",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/M_Wukong_Future_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "2E2B712E7DE68B16EF2BE0E66696022E042865A5",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_EyeMachine_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "77A3A82E385E6CB932CCB6ADC60968FDF14BBDC8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "16D8FE2EF233FDCC4B274E69FED8F203150F0D68",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "76741C30DE5387F62763992D1697DFB97F69AD78",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Square_Gradient2",
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Square_Gradient02_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "99F44130D9DBB6066D1A7147A0E10EA02C1C2A26",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Mouth_MId_color_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "30E6CB30AA81DCAADB1F69FAD83B3145C03C182B",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Sparks/M_hardSpark_Alpha_GPU_Random"
+			]
+		},
+		{
+			"ShaderMapHash": "CFBD64325DEDB8E8B5672982E25BD411105C56AC",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_BookshelfA",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_Candlestick",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_SJJ_IncenseBurner"
+			]
+		},
+		{
+			"ShaderMapHash": "62EEED327CD1B3EE8D75E0F696FCC023D2531A9E",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Primary_EvasiveTrail_Inst",
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Primary_OffensiveTrail_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "8F0A2B34AB41420EF751D30868EF516D1393342F",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "4A067534C2F87512C4DE6746279B317E62332318",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "0D3BE934DD66C9D8828284867D01D80B900EE19F",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Wind/m_WindSplines_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5D8759369808BE2800C9C7CA681D46EA217181B1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Maps/BackGroundAssets/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "DBEDD4369B18DCBD4E8359734E52EC7B62917348",
+			"Assets": [
+				"/Game/GeunjeongjeonComplex/Geunjeongjeon/MasterMaterial/MM_GJJ",
+				"/Game/GeunjeongjeonComplex/Geunjeongjeon_HG/MasterMaterial/MM_GJJ_HG",
+				"/Game/GeunjeongjeonComplex/Geunjeongmun/MasterMaterial/MM_GJM",
+				"/Game/GeunjeongjeonComplex/RoyalRoad/MasterMaterial/MM_RR",
+				"/Game/GeunjeongjeonComplex/Yongmulu/MasterMaterial/MM_YML_East",
+				"/Game/GeunjeongjeonComplex/Yongmunlu/MasterMaterial/MM_YML_West",
+				"/Game/SajeongjeonComplex/Sajeongjeon_HG/MasterMaterial/MM_SJJ_HG",
+				"/Game/SajeongjeonComplex/Sajeongmun/MasterMaterial/MM_SJM"
+			]
+		},
+		{
+			"ShaderMapHash": "2FC60937F19D4ECB04D966EE56DCDAD85043E265",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "FED35E374F9EADB4DDCC0DB644C52817081E77E3",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "2484B33763F64616FD3D67716FA04E6C12204AE0",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_ScifiRadius_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "E65071385F26F70BA501C509EBB32E31038C1C18",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StereobateC"
+			]
+		},
+		{
+			"ShaderMapHash": "B9989938E5592269FA77E90C3FF4BF689F5D5E04",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "6034C538A301AB33237CCDAC13B69B8FBFDC83FF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "22EB6D39844985043E00798BAC149581FDF9265F",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_ULT_Patten3"
+			]
+		},
+		{
+			"ShaderMapHash": "7502D73B2092FAFD566D702C90FDD09E29765D51",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Attatchments"
+			]
+		},
+		{
+			"ShaderMapHash": "CD23823C0A23395BD87FF9A5F1E9A3781DCB3958",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_HotPursuit_RedBlueTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "4E68E73C213DB8182D32EC6DFED98DEE438DABCB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ADF9783E451BBD6F426646EA73173D5A3143BC07",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F1133B3FDDED45EC34B849697C8B4DDD8782A6A3",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_TearDuct_2_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "94F3D83FD4ADBFFE2D36FDBA1276A3DF339592A5",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_AngelRafterA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_AngelRafterB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_BeamA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Boaji",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Buyeon",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Celling",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChangBangA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChangBangB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChimneyA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_chimneyB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChimneyC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChimneyPart01A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChimneyPart02",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChimneyPart03A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ChimneyPart04A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_CrossBeam01A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_CrossBeam02A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorD",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorE",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorF",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorFrameB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorFrameH",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorFrameI",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorFrameK",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorG",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_DoorH",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_FirePlace",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_FloorA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_FloorB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_FoundationStone",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Gable",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_GableIron",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_GreenWood",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_GreenWood_Shot",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Jangyeo_parts",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Jinecheol",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Judo",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Mulikgong",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Outside_Part_BelowB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PanelboardA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PanelboardB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PanelboardC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PanelboardD",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PanelboardE",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PanelboardG",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PatternWallB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PatternWallC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PillarA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PillarB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RafterA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Roof_Gypsum",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofFloor",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofInner",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofOrnament",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofRafterB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofTileA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofTileB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofTileC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofTileD",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofTileE",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofWall",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Soro",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Stair01A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_StairC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Stela",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_SteppingStone",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Stereobate01B",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Stereobate02B",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_StereobateA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_StereobateC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_SupportingBeam01A",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_SupportingBeam01B",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_SupportingBeam02B",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_ToenmaruFloor",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Wall",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WhiteCelling",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WindowA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WindowB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WindowC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WindowD",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WindowE",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Yellow_Floor",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CJJ_PillarC",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_SJJ_RoofOrnament_Iron",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_AngelRafterA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_AngelRafterB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Boaji",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Buyeon",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Capital",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Celling",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ChangBang",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Chimney01A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_chimney01B",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_chimneyB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ChimneyPart01A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ChimneyPart02A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ChimneyPart03A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ChimneyPart04A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_CrossBeam",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Door01C",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Door_InHandle",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Door_OutHandle",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_DoorA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_DoorB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_DoorFrameA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_DoorFrameB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_FirePlace",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_FloorA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_FloorC",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_FoundationStone",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Gable",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_GableIron",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_GreenWood_Long",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Jangyeo_parts",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Jinecheol",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Mulikgong",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Outside_Boaji",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PanelboardA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PanelboardB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PanelboardC",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PatternWallB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PillarA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PillarB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_PillarC",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RafterA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofFloor",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofInner",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofOrnament01A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofRafterB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofTileA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofTileB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofTileC",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofTileD",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofTileE",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofWall",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Soro",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Stair",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Stela",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_SteppingStone",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Stereobate01B",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Stereobate02B",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_StereobateA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_StereobateC",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_SupportingBeam01A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_SupportingBeam02A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_SupportingBeamB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ToenmaruA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_ToenmaruFloor",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Wall01A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Wall03A_part",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_WhiteCelling",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_WindowA",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_WindowE",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_YellowFloor",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_AngelRafterA1",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_AngelRafterB1",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_BeamA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_BeamB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_BeamC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Boaji",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Buyeon",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Ceiling",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_ChangBang",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_ChumchaA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_ChumchaB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_CrossBeamA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_DoorC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_DoorframeA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_DoorframeB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_DoorframeC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_DoorPaper",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_FloorA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_FoundationStone",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Gable",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GableIron",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GanpoInside",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GanpoOutside",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GanpoOutside_shortA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GanpoOutside_shortB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Gongpo_Conner",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Gruond",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GwipoInside_long",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_GwipoInside_short",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inner_ChangBang",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inner_CrossBeamB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inner_SupportingBeam",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inside_PartA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inside_PartB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Inside_PartC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_InsidePillar",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_InsidePillar_Iron",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_InsidePillarB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_IronDoor",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Janghyeohyeo",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Jinecheol",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Judu",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_JusangpoInside",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_JusangpoOutsideA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_OctagonalCapitalA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_PanelboardA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_PanelboardB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_PillarFrame",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_PoBeak",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_PyungBang",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RafterA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofFloor",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofOrnament",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofOrnament2",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofOrnament_Iron",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofOrnament_Iron1",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofOrnamentJ",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofRafter",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofTileA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofTileB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofTileC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofTileD",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofWallA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofWallB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoyalRoad",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Soro",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Soro1",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StairA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StairB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StairC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StairWall",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Stela",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_SteppingStone",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StereobateA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_StereobateB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_SupportingBeamA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_SupportingStoneA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_SupportingStoneB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_wall_insulator",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Whaban_Wall",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowB",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowC",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowframeA2",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowframeB2",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SM_SJJ_DoorA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SM_SJJ_DoorB"
+			]
+		},
+		{
+			"ShaderMapHash": "DF033640DBEDD75110B155018ECF9C8E36A7CCE0",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_WukongCloud_fakeLitParticles_addInst02"
+			]
+		},
+		{
+			"ShaderMapHash": "F84CA4408ABC2C1429171A4284AC35EFA6D24CCD",
+			"Assets": [
+				"/Game/GeunjeongjeonComplex/Geunjeongjeon/MasterMaterial/MM_GJJ_OP"
+			]
+		},
+		{
+			"ShaderMapHash": "7688AE400F45DD3CEC567A1DC4AF1E9BC7C3C556",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Wispy_Plasma_GPU"
+			]
+		},
+		{
+			"ShaderMapHash": "320CDD401E151F5CC714EE553957578BCA2EBF02",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "428196425AA220EDA5A5E28ACBD4BF917F63F12F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D5D5D442CE22A7947B25613CDDB04A1C0101AF98",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Fire/M_FX_Fireblast_SubUV_02"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5190433F0FB1CBF5F1FE2D2F7BE893803E6E27",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "330CC643A8ED7DA3556727C78310B524B6ED24B4",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E3D7CE438AB9DFFA3AE2FD478D78966D68A18B25",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/LightShafts/M_Flare_LightShafts_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "CD5B1344CE2D015CFC9F9973787C1A35CA3B9501",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Hand"
+			]
+		},
+		{
+			"ShaderMapHash": "59838944546DE3EAC40E68BF20A7A71684CB1521",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Staff_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "2CDCA644711F3626E9183C0D635FFCDB20B38FDD",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Cloud_Translucent_ParticleColor_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "5358B8458AC332C9E132294792F3224C3A1FDC82",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Debris/M_ImposterRock_Translucent_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "14B31E466BD7433C29D7E41D94EEB9A434BC0DE2",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Tail"
+			]
+		},
+		{
+			"ShaderMapHash": "39929646DBD5649A43AB72B500E78C7326430533",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "51B1A5463024EE06BDC0C4E9340044D9456877F8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "30D6B246DE5B762CDC6906483BE0D2DC5C3A2488",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Paper"
+			]
+		},
+		{
+			"ShaderMapHash": "33A8D147EF0375454C59CA6C643345594E75FFC7",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2F90DB47BEFB27C5F2FBBB15BC316F673737DA1E",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/Standard_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1080F147309AD680E48E7863BEBD632805D7D2BB",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Misc/M_Spookyface_Spline"
+			]
+		},
+		{
+			"ShaderMapHash": "D6680548DFE49C1A2C69FCA51FBB438448771FBD",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "148D0E48C39EAF833F101014A2BC89A003EC200A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Constellations_Lines_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "82B2344905980DC4F2EDE994EBEBB37CE3E0BB1D",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_Wukong_WhippyCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "0033D34A2F4F97C97EA1816078772F0646E9EF89",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "8A4A314B0C285DF02FC79C2EE0494604D5369ACA",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/MI_Wukong_Fury_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "C55CDD4BF12ABE7385967F020C3F4CC374116E9F",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "10C9A74C0AEE234A5E389FBE8A99C8DEE87ED434",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_EyelashMaster_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "4F23AA4D8C7F642E9C9DD0D88E670425023250B7",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Prop/Material/MI_SJJ_CabinetC",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_SJJ_Throne01",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_SJJ_Throne02"
+			]
+		},
+		{
+			"ShaderMapHash": "5C9EE64DE2AD5C1DCDB5C121DD118570AEAD75C8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Mouth_MId_color_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "D8A72F4F809CE9B493FE721C584AC434F200B3BC",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/HeatDistort/M_Heat_Distortion_GPU"
+			]
+		},
+		{
+			"ShaderMapHash": "5F8DD94F78FD4D802642B20F2944BD8B7310A567",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "3FE9B05008D37C9E094CB5FB4617F0E24AFA231A",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "EECAC4500D21D82F82C44DB9FC00533FFF633C6B",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "23F62B51CA08C40FC540FDDB794540C70FB388F0",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/Decal_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "217BD45112D64634C1BF4EF1FA7201DB137149A8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/MI_Wukong_Default_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "434AEE510828EC7B3B527003A5B375F87134B54C",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/M_GhostOuterEdge"
+			]
+		},
+		{
+			"ShaderMapHash": "5F41B0522CD79C166C499149C15D05D6B91C9FC5",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/Parent/M_Wukong_Future_Root"
+			]
+		},
+		{
+			"ShaderMapHash": "F196A753E42FC03242DDB34ED98097FAB939C20A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/HeatDistort/M_ParticleRefraction_SoftEdge"
+			]
+		},
+		{
+			"ShaderMapHash": "4FF43654B7D98913A9217876EA21F0ECC7E55CF1",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow_Sparse_Panning_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "4493C254250D5879F2FC54D1D65DB2AD0F41CAFA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_WukongEnergy"
+			]
+		},
+		{
+			"ShaderMapHash": "2D87D6562ACDC105BF47EC310E73D1D64D01E806",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Tech/M_Glitch_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "B17AEC5640C5E98ACC095A9AF5B3040163BE3664",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_BeamB",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Jangyeo",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PatternWallA",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PatternWallD",
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_RoofIron",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_BeamB",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofOrnament02A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofOrnament_Iron",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Wall02A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Wall03A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_WallC"
+			]
+		},
+		{
+			"ShaderMapHash": "BBC04F57343E0C642C7163ECBB2101542886779E",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Face"
+			]
+		},
+		{
+			"ShaderMapHash": "44DD5C5759AC5B48446CAF58CC19F01AC4611511",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "F3F16F580CCD0648A6CBAB1128925B2B2928062D",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57188C58FFA1423E15315FC7D197D8EAB598E2D3",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/Displacement_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C8886D5AFC48CDCDF29718C3EAFDFC6F32257C09",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Constellations_Stars"
+			]
+		},
+		{
+			"ShaderMapHash": "F192455C1B395DCFCB05F4D01F1360D8DD01A487",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_WukongHand"
+			]
+		},
+		{
+			"ShaderMapHash": "2524F15CD8D174D85897FF3242C8C2F0DABD8007",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Face"
+			]
+		},
+		{
+			"ShaderMapHash": "0D55575D2989898305B081B16B1EAEE2D3251F13",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_ImpactFlare_Wukong_GreatSage_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "E57E755DB009AC72D3C9963381783E0CF305A4FB",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_CabinetA",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_LightA",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_LightB",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_TableA"
+			]
+		},
+		{
+			"ShaderMapHash": "F6907061A530FF9201D43FB093C8C8A6DFABAD65",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "410B1762100DFB6BE1BC401FA7F7B5C6339A44B7",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_TearDuct_2",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "20652E624340D8B55DEC4C2BAE3A95D09C4C2E14",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/HeatDistort/M_HeatDistort_DistanceFade"
+			]
+		},
+		{
+			"ShaderMapHash": "FF7B696232BE78BD77A2E6A6787FA9BAAD612D52",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "8BB8D064E637361F2953B2005AF59F7C1AFFF9B1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "F18B7B65DF9A079DD04D63704D4524CFE2077EDF",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Ref_impact"
+			]
+		},
+		{
+			"ShaderMapHash": "C0F95566D34B4BC4AB095F0EF1D642D8B33FEFEF",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/CineRescue/M_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "F568E16695F9E0D9C5181939BA0773F8077E9233",
+			"Assets": [
+				"/Engine/EditorMaterials/Cloth/CameraLitDoubleSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3C137167C575C8DA5015D2FEDF150BB132E5ECA0",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9DA8BD67070EEC3E0D554EA219E5A2C7C6149152",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_DoorD"
+			]
+		},
+		{
+			"ShaderMapHash": "A904E767C40BEFEFD2AF9DA2A5F5CA09DFF28877",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "9604F7685193CD466003EA2DE9DFF232337A6C09",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_GhostTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "33ABBE692BE95B545221F95FB1A0643D4CCDCCE9",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/Parent/M_Wukong_Future_Root"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9D826A181223FFA8973616259762977E852C47",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "9F72946AF28EF3B68C29585077FF1D8FFB5E98F7",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Arm"
+			]
+		},
+		{
+			"ShaderMapHash": "E7D6D06AD92C2DEF8E635920648830131118CA32",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_WindowPaper"
+			]
+		},
+		{
+			"ShaderMapHash": "B477076B20EEF21F4524A6934A219A8314901E84",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "15045C6B12EC61BD5A4A2F6E0A4F1EB44993D754",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "FB1E816D8A896E6BA6F064CE1691A2CCDF820AFA",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "D435FF6DADE341B94A05D1C74D0EFF679935B4EA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Debris/M_DirtTest"
+			]
+		},
+		{
+			"ShaderMapHash": "A0C5726ED660544C156FB7E3DD7685546EF645D4",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_LowerBody_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "47B34F6FD8CCBC066CADFB6707B49A40EDDDA3BF",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "17195E6FB1B242C5B6DA8675D8A9E8D3E061066D",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Prop/Material/MM/MM_Opacity"
+			]
+		},
+		{
+			"ShaderMapHash": "E995606F9437927D181DDF761A6EA07355817340",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "FFD1EC6FB9AA837D60B8BC1AF0DB30C0DA4FBC64",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "0B851A703FBDCC8A950FF6C84878883D54754285",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "D0962070D1EFDB2EF2C93743A59B1348A655E422",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "96B030703B088BAEDCA5E8382DA0D8A3B402C1C6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D0CAB370B33CE7B7A3D3ED890BAF3FE11FEFAFBC",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "84FA5371358947593807ADB4413D0C9734F760AE",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Constellations_Stars_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "9AF5CA711B6573D89174D7765A4658BBD734215C",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "736BD771819C6F9EED70E6669FFF816DF24E0036",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "CDC0DC7168A71F428BB27793D5F97B626115A2DA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/Future/M_Wukong_Future_Square_Gradient02Flicker_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "BCF05D729EA30FE395C70F21C9C061A65010DAD7",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "D884BE72598ACBB0F5834A0783306643D7FB9692",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Ult_Reticule_Activate"
+			]
+		},
+		{
+			"ShaderMapHash": "A8061D75B35098E56E675B4F6D54670378E9BF98",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Smoke/M_dust_burst_01"
+			]
+		},
+		{
+			"ShaderMapHash": "979A4475E0B6772FE78F89F40310043023AB5238",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "8C2D4975B012077E1C3EAFB8AB23394A751DB950",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_ArcLightning"
+			]
+		},
+		{
+			"ShaderMapHash": "3899487701A5523E6135007AE5679C29B145217D",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_Wukong_GreatSage_MeleeTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "6CFA9B771B40EA7F50C3F50A8FEA26D6A6886324",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "7C90F77759D4296B6749FCDD9D4A21A426F4D7F9",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Glass_Material/MI_MS_Glass_Material_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "FD5BFD770DF1D155D4B64FAA9A9EA157FB6387E4",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "523935780F34CB4CBCEB59E34070E42FBBEDDCD3",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/LightShafts/M_UpEmbers_LightShafts"
+			]
+		},
+		{
+			"ShaderMapHash": "239FCE79F06C0BE9976135AC0D3B2783BE974F36",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "655D667A6C73B9B555974E7C151B84D1C50F34A1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_LowerBody_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "BCB6707ABF19CDB58D7A571A8A7EE3F78CF48A1A",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "49D3FF7B126457D23C44BD8BE5C422C6045DBD70",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "956C0B7C49BEEAFF7AB319D3F29EFDFB03928D4E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C5640D7CF09079AE4ECB38C51A5FB75F45949787",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "022F027D1CB9EC36775E1BF05CE1FFBC8AD6E842",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_OutDoorHandle"
+			]
+		},
+		{
+			"ShaderMapHash": "3231127EF4A781FFE5999908057AE045BA169CCB",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Wukong_Vert_Flare"
+			]
+		},
+		{
+			"ShaderMapHash": "C770527E698B4A7832CB8453534D4376663DA863",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Debris/M_ImposterRock_Masked_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "A586697EACD1E60C0166332771E039987B6F5A09",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Energy/Plasma/M_FA_radialEnergy2"
+			]
+		},
+		{
+			"ShaderMapHash": "0EA1227FF5CE7CF1859E669782B686D5C2EF0693",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABFF267F4A5A10C4D79AF096123116690BC088D5",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "6E5D3B815A63BA994195064F932176501F834DB5",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "31703B8170B53CB5932EB4A7323D2D4EA55D7579",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Legs"
+			]
+		},
+		{
+			"ShaderMapHash": "4C85A582D5C5488F9D2D9887D4B55E1821E15900",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/M_Wukong_Future_Lower"
+			]
+		},
+		{
+			"ShaderMapHash": "70F41084DC7274E8BDC9D6CA5F79A8B4A8BA00A5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "97237884C67CC599FB911EE841E8EC4C4908D6A2",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Shockwaves/M_WukongUltShockwave"
+			]
+		},
+		{
+			"ShaderMapHash": "F320AF84B35E99757B11C0350168AEC2EDA725A5",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_TearLine_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "26DB8385D998C46765D49E73525A741669E1C3B0",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1096D086581D4F9AAA82632363B0713A0CE8A1A2",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/ChannelPackingSample"
+			]
+		},
+		{
+			"ShaderMapHash": "E1C6CA876A140EB831D7552847D6223D2718C61A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Abilities/m_ParticleDecal_CloneMaterialize"
+			]
+		},
+		{
+			"ShaderMapHash": "CCFF2288A9414E476C282D5691C4160E815A9DAA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Game/M_Shockwave_Fresnel_InverteRefract_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "7448A68BCCC13B60007277D3C25857448C6A3DC1",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Smoke/M_WispySmokeTest"
+			]
+		},
+		{
+			"ShaderMapHash": "48991E8D84712DCBE42491460952512F31B1BB67",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_Jangyeo"
+			]
+		},
+		{
+			"ShaderMapHash": "D674888DB57FDEEF69631175192661BDE7DBB083",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "DAF28D8D85FFCD243EF65A96C5E0CAEEC2EAC57E",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_RadialFlare_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "F7FBEA8EB33CE83B7B5FF9FB14BEAF63AF701A94",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_RoofOrnamentH"
+			]
+		},
+		{
+			"ShaderMapHash": "C2F841906D0F9874F8719EEF74361BB4257C31B8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_demo"
+			]
+		},
+		{
+			"ShaderMapHash": "2F3F4091D32BA104A6BCA51EB79E695AB0D28EDE",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Torso_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7F5F918EB9886C8E52123DCC8A045AF8F02874",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B27E91A8140BCA61EFE5503623AE0F890A2F05",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E5FA3C937520C6F18EF6CCED3C966A829FA40D74",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "DEC8629314F75BC2EC085D7FBD7D9F7ED7BFAEF0",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_Water_Drops_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "972AF4941A3842C37B6C629C18DEDB82EBA21143",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/MaterialLayers/Rock/M_RockSlab"
+			]
+		},
+		{
+			"ShaderMapHash": "46A47D95776FFCFDF544855FF70BC73FB0104F54",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Attatchments"
+			]
+		},
+		{
+			"ShaderMapHash": "F6769895DD035165A247FFDC94FCE24C7905D74B",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "3B066496FAF6ECE0BFEFA1898C8B4900DF8550B8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "DADF3C9836842C546373336A260FE04AB76CD8B3",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/MI_Wukong_Default_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "9A805098C42C67B3FA48E9A48F53CADC3E7E5366",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AA1F8098711FBA73115D658EA7D348C3242152C0",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "440ED4980DEEA500D2DC86924A327CCE27EE245C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF4069943148BEDEFB850C29CE2AA9947255EAE",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "FC39D299DD4B16A2E7E8C06CF7C52B73C2500177",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "876DDA992A95E0A6C1E6885D9B4CF611AF518F1B",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/MaterialLayers/Rock/M_RockSlab"
+			]
+		},
+		{
+			"ShaderMapHash": "541C519B3D8AF3E76E7BE420FAF96242B777F3C2",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Debris/M_BlurRocks_Fakelit"
+			]
+		},
+		{
+			"ShaderMapHash": "B3D8C49CB2C7927DA0EF2BE4FDFA7B815DCC6D28",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_fire2"
+			]
+		},
+		{
+			"ShaderMapHash": "82E6DC9C596DD6AAA8C097ED02381484874420E5",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B327119DCDA24491E272651198C46AD42CF944D6",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Energy/Plasma/M_BFG_Particle_Core"
+			]
+		},
+		{
+			"ShaderMapHash": "3B99809D14C4D259B7784DF55CBA69D65AE58DAD",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "19B2899DEE45FD988F6FBBB468EF53CA489E18FC",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material",
+				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "4F48E19DF3172983B3D6065AB55C963297C0572F",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "F59BF69DA3C128DA695EC335847673F438800AC6",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_TearDuct_2",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "FC9C16A050A8F4C46F59EB8BFA30E62A2BAD1060",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_WukongHair_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "7BDC1FA06BE59BF740629282C15475DC3B0B5935",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "92A8C8A0CC5679F75008A95531CB49AEF6084469",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "533210A191DDE777697662714A8C479C4C8D8B94",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "94D13DA3364D5C6CF4BB3DE9A80780D024353EF8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Armor_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "8B7D47A467AE099949A2C518C37EE11680DE633A",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "19D2D7A49B373B1E696949B22F139D1F75BB36C3",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Staff_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "57CDDFA47231642EB4599D87C38547D202C0F5A8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Face_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "10DAE8A498A0DAE113109A528862939F2FA5250B",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_ULT_Patten3_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "55290EA573C19766512ACCF9B027DD4FB9275088",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Sparks"
+			]
+		},
+		{
+			"ShaderMapHash": "AD1855A5D49DEBBC610AC65C16068B81DAC74B47",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Abilities/m_WukongEnergy_Clones_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "7AD47EA56B60782716862517DB62B78F41187EA7",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_TearLine_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "2DDE11A69C1CFC0CE769D3D4FE46FF2839C9345E",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Environment/Birds/M_Zen_Bird"
+			]
+		},
+		{
+			"ShaderMapHash": "FAF885A6BC0F50A5688D231B17CDB0AD3A9B6F00",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Face"
+			]
+		},
+		{
+			"ShaderMapHash": "C7E0DFA6E4BC0D0F1C9F1FB857F6ECB828006BA7",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_DNA_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B49FBFA72F425091CD47A165DBB019E8B728334A",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Face_Royalty"
+			]
+		},
+		{
+			"ShaderMapHash": "23BA8BA8A076BB31975D00A79DC9109D6F2FAD7A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Misc/M_Shadow_GhostGPU"
+			]
+		},
+		{
+			"ShaderMapHash": "E022D1A84A48DD842F1DF4174F7088BEA2508DF6",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Hair_Fury",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_SimhairHair_Fury_Inst",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_SimHair",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Hair",
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Hair_Royalty"
+			]
+		},
+		{
+			"ShaderMapHash": "F5F4D5A8F594E79A8FCE235A6B13A120492351C0",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowframeA",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowframeB"
+			]
+		},
+		{
+			"ShaderMapHash": "DAD134A9A0B230BBE499E5CB14A8CC6F1311386C",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Smoke/WispySmokeSoft/m_WukongWispySmoke_PrimaryImpact"
+			]
+		},
+		{
+			"ShaderMapHash": "E8FA60A95535588E1B6144556491E69BF839A2CA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Misc/M_Spookyface_Flame"
+			]
+		},
+		{
+			"ShaderMapHash": "FC6367A92F88E4C98625FB2AE5281105FB070CEA",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_DoorframeD",
+				"/Game/ThirdPerson/Assets/Peach_inside",
+				"/Game/ThirdPerson/Assets/Peach_Skin",
+				"/Game/ThirdPerson/Assets/Peach_skin_2"
+			]
+		},
+		{
+			"ShaderMapHash": "790C1EAB238D089D1A1D9EBC069EB3B53377200C",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_demo"
+			]
+		},
+		{
+			"ShaderMapHash": "2AE5C0AB677058B151304286BCABB0A5DB5E0C34",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B562C6AB93F22228C169DBBC3E16C3749A90721A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_InnerSpirit"
+			]
+		},
+		{
+			"ShaderMapHash": "40505EACDE68AF4ECE8E3BB289BA755A3AB862D5",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Flare_impact"
+			]
+		},
+		{
+			"ShaderMapHash": "AAE883ADEF3C87E7C2745880265CD42BBBF6933F",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Legs"
+			]
+		},
+		{
+			"ShaderMapHash": "327329AEB6E50D18546238EEF60852423FB030AA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/M_Wukong_Sleep_ZZZ"
+			]
+		},
+		{
+			"ShaderMapHash": "13D70EAFF1D462B64461644422963A209B313DBE",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_BodyLightning"
+			]
+		},
+		{
+			"ShaderMapHash": "741EC7B0BAD376B79A4F028AA7C6D7AF2F900C4F",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Armor_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "23DBEFB0FAAC92BF0837A4224308E0D3DCD09B0A",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "33BF3EB15FBAB31146B8DA850901B76858643AED",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "B2D6BBB1B312D1E31C2C4592269E52E928C05F9C",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/M_Wukong_Future_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "74F100B2912C81F02A48FD2E627BE6C0CDB3BF37",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Arm"
+			]
+		},
+		{
+			"ShaderMapHash": "080090B3AE51B43ECEE9278ACF2E21704619609A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_Wukong_WhippyCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "3E95A5B38851C4939766FF84943202E5AD9F2E28",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/m_DarkFlare_Dynamics"
+			]
+		},
+		{
+			"ShaderMapHash": "B3602CB5BE34B235EC8ACE178C59D95B6347228F",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D2BDBB6398C817C262F8B22682F510288DD0506",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "11031FB8AFA006E3CCE4B5D59C036646C58A23AB",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Lower_2"
+			]
+		},
+		{
+			"ShaderMapHash": "87FAE0B805035A70425A4B812EAEE19BF8B5AF02",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "E3780AB90509F0D202291E2324BAE8E831143E70",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "52FE1BBBE0BD697B3237C901CD488006033CE03E",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_Footfall_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "7A785ABB4550D3B9FAF7AD659BE8C93DE585BE79",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_BlanketA",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_CabinetB",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_CCJ_TableB",
+				"/Game/SajeongjeonComplex/Prop/Material/MI_Hemispherical_Sundial"
+			]
+		},
+		{
+			"ShaderMapHash": "A80EA8BBD8F668A4B1169B005C9422D502EF2B47",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Sparks/M_Spark_VelocityLerp"
+			]
+		},
+		{
+			"ShaderMapHash": "3F5D54BEE9F0A4CBE2098DB31F169317619EEF96",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AEC90FBF6F92CA421915E1CE14F3EB647729883C",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_WindowPaper",
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_WindowPaper"
+			]
+		},
+		{
+			"ShaderMapHash": "E7CE66C017FFD77D5CC41F798F50991F335CD29C",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_LeapAOE_Shockwave"
+			]
+		},
+		{
+			"ShaderMapHash": "12A244C146DD08BA1FAB651545DDF904713017A0",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/MI_Wukong_Fury_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "7EBA2AC220AB8A7DEA2E51B989A787BAC5578E37",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Cone_Flare_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A64150C24456CB7064376A413BB2A05CDABE1283",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_Footfall_Ripple"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8F69C215EBFD12AAF73B462E9B4CABD3858E88",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "038788C282AF63EA2FA6E16EE501C2653968F101",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_Wukong_GreatSage_MeleeTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "A5C49DC262DE42FD2D0FECC602D945A1DD1CB92E",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_WaterMist"
+			]
+		},
+		{
+			"ShaderMapHash": "4B982AC35B194168E86D715DA143082C830DF5D7",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Game/M_CleanseFlare_HighRangeLDR_Rotator_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "4A6BBFC3BFC85EB4412A7F8A672063FD97328AC1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Fur"
+			]
+		},
+		{
+			"ShaderMapHash": "4701EDC31EB3C2F48F763A3F67D970E888384103",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_ULT_Patten2"
+			]
+		},
+		{
+			"ShaderMapHash": "FD7BF1C3CD76ECC6949EF7AFE05D35FDE0575999",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Energy/Plasma/M_FA_radialEnergy2_HighrangeLDR_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "75962AC4BFF7FEBD45919EC92FF8C73A5E0251C1",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Armor"
+			]
+		},
+		{
+			"ShaderMapHash": "4D0177C4C8F375C7A8F44285A7E40AA2A91E6D8A",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Primary_Trails"
+			]
+		},
+		{
+			"ShaderMapHash": "D6E6DBC557802888B63F7B2EEC06E5041528DC75",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Trails/M_Wukong_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "868628C800590C12D570C1A5A102BA1DAEE579CB",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_LiquidSplash_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "E77D02C9BE07CF9049F0C29D0F904A48A0DC3219",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Prop/Material/MM/MM_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "29ED25C978FEC3C49BBF9710CB6B31CB9B62B1A4",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "38D40CCAEB82E9EB230018255E3E3485A98C9E5B",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "38539ACAD4BCB1ECDBB952F78A6AACF360E077FD",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Game/MI_CleanseFlare_HighRangeLDR"
+			]
+		},
+		{
+			"ShaderMapHash": "AA34F6CABDC3569A87B88A03B5BF249B0D3AC811",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Torso_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "5BEAA9CB39711C335230B055AEC3243143E32675",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3E28DCC23B91583170180881B052C88A5A1E94C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "4A1727CE9BADD90F4C9543F64CEEB8F0CFCF7021",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Square_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "28B0F0CFBAD546F5B02F24F241EFE3A0B435F7E0",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Meshes/Splines/M_Spline_Preview"
+			]
+		},
+		{
+			"ShaderMapHash": "F7633AD0A8BBC74C3E0E4FFB1518EE6383EB57CE",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Staff_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "A4D84AD01D93AEBC02E0F0C108A264A73E508A5C",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Primary_Trails"
+			]
+		},
+		{
+			"ShaderMapHash": "D31B78D03E2550948E0BEEF7BB2F07028AAD32B4",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Wall02A",
+				"/Game/SajeongjeonComplex/Manchunjeon/Material/M_MCJ_RoofGypsum"
+			]
+		},
+		{
+			"ShaderMapHash": "F912C3D02FE40909ABC3B277A376D8E8C6EB1566",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_BurningStone"
+			]
+		},
+		{
+			"ShaderMapHash": "CDD6F6D0AAACD600E94525FBEEA46E214381CE46",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7033D8D1A80A52A1E0CE2CDCC8CAB6C41143B739",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_WukongEyeGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "C41546D27FC7A8437C3C6BAD3E0EEF33269D17EA",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Fury/Materials/M_Wukong_Torso_Fury"
+			]
+		},
+		{
+			"ShaderMapHash": "D9B7C7D21917D7224C66B5B75DD82A781669DE62",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Decals/ParticleDecal/m_ParticleDecal_BurningDarkness"
+			]
+		},
+		{
+			"ShaderMapHash": "F4A6DDD2EE63DFC8418BA9396B38ED570C24B22E",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Wind/m_WindSplines_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "DB0862D4359252920B89F4CC47CBC713344AFFAE",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "3E481FD556500629B5BD4D42760074172FAB0947",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "19C987D5DDC3646B43B603145D73D045FD558B8A",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/SurfaceBlend_MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CBD30ED67243522CDB2A7CC43E59D6A0EC975255",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Energy/Electricity/M_LightningSpiral"
+			]
+		},
+		{
+			"ShaderMapHash": "251B10D640B106ECFCF129ED5F30373FFE6A9F12",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Tail"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7C54D73A87636F8D228F189BB8A1847E995EE8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Hand"
+			]
+		},
+		{
+			"ShaderMapHash": "F3C5A2D785964414A4A84EEE7F2E462A0513076B",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Attatchments"
+			]
+		},
+		{
+			"ShaderMapHash": "5E09C0D7713DD1DA384691F15B9983C3C63BFF86",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_ULT_UpEmbers2"
+			]
+		},
+		{
+			"ShaderMapHash": "D0F0ADD981E98C754967A2D65578BE04D0215239",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2E03B7D981B68D26D4AC311CF64891202120566D",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "8E38FCD94785BAFBD8448A3D37057D3B339EE3D3",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA3D69DB78807EF359C97FA5C0DB774F23107A5D",
+			"Assets": [
+				"/Game/GeunjeongjeonComplex/Geunjeongjeon/MasterMaterial/MM_GJJ_OPMask"
+			]
+		},
+		{
+			"ShaderMapHash": "C11799DBC510DDA5EDAF8DA24DC7A63CF0959A6A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AE07CBDBA70EEAC69304F62E0D2E059A5BBBAC55",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5F0CFEDBE2FB0F23B38E0855BC6BBD0F08070BBE",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_Wukong_Cloud_Translucent_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "B83250DD602F8677ACA09AAB371B825486AA43E0",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Royal/Materials/M_Wukong_Royalty_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB87BDEB167559484CAB12AB93E7AACFD540A85",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/Parent/M_Wukong_Future_Root"
+			]
+		},
+		{
+			"ShaderMapHash": "FEE5C7DE24D377824DD4C0386CDFB0ACD0AE8FB4",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Maps/BackGroundAssets/M_HDRSky"
+			]
+		},
+		{
+			"ShaderMapHash": "FBD0E5DEA9942D7AA32A788F82AE172A132E5715",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Legs"
+			]
+		},
+		{
+			"ShaderMapHash": "E57E27DF257D5DE050507C4DCA815187A81A1722",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Eye_Occlusion_Wukong"
+			]
+		},
+		{
+			"ShaderMapHash": "4EC94FDFCBC0505E7C2EC23EAFBE7D0892D22A60",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_Wukong_Cloud_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1459DF79C16FFF982BBFEFCA2F91074D0BB4FC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "1AF9CDDF9D9AF73E3679D20B22602C86E31BD7FB",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Smoke/M_ThickSmoke_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "65D960E20C0FA31593A8BA3E7879CA2A4D1861F1",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_Stair02A"
+			]
+		},
+		{
+			"ShaderMapHash": "F507A1E2B77B8698823597E87230A6B29C06975D",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/m_GhostSpline"
+			]
+		},
+		{
+			"ShaderMapHash": "8599D5E28511A4F5740673E2AF8965ACFC2D5715",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "8FC747E37AB725E3F60F54292C29790FF5274180",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7E14E47DC974950EB746AC6F0C9E8F23738045",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "FED638E505D66D5E0E355593329DB905BCCEB3B2",
+			"Assets": [
+				"/Game/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "34FCA4E658D97A056256B38EAFD0517855B31D67",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/M_Wukong_Future_Lower"
+			]
+		},
+		{
+			"ShaderMapHash": "C740D0E6E765B387DD9471B2B5625FC3A909C5CA",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Game/M_Tri_Test"
+			]
+		},
+		{
+			"ShaderMapHash": "6398CFE752975DE733E94A77B919C850BEC463D8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "486C0BE879FCC4C180189ACB594DF3A2F9E62108",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Sajeongjeon/Material/M_SJJ_Pillar"
+			]
+		},
+		{
+			"ShaderMapHash": "BDA9E0E831F0EC4FEA090A61A5802FF6A1C6DC8C",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "2349A6E91A225F986893BA6E367F15D2C1FA6FEC",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Energy/Electricity/M_ElectricalArcs_Character"
+			]
+		},
+		{
+			"ShaderMapHash": "6B1FB7E9B8207517E28F30EC4A30628122CF7B0B",
+			"Assets": [
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material",
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "3EABC4E9EF58143CE005C797997BC411862B07AF",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/M_Wukong_Future_Weapon"
+			]
+		},
+		{
+			"ShaderMapHash": "ED97A6EA4DAAAAD821776312649372267CF90578",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/FutureKing/Materials/M_Wukong_Future_Lower"
+			]
+		},
+		{
+			"ShaderMapHash": "1BE9EBEA0D607A6E63B4DE3BE70ABD5409EC766B",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "58A525EB16D97958CD95020ACB7E73D845728E56",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/CineRescue/M_WispySmokeTest"
+			]
+		},
+		{
+			"ShaderMapHash": "FC5A65EB200400F4F06F53D59FCFC892ECACC29F",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_ArrowFlare"
+			]
+		},
+		{
+			"ShaderMapHash": "0BE04BEC64FB2D6300F4F45E454F82492DE968FB",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Lower_2"
+			]
+		},
+		{
+			"ShaderMapHash": "4927A6EE827CB91675EF41CFDDA067ADA2E25093",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "D694C0EEB1BB7E7DD8D7C467563ACC3A07C49E07",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/Wukong/Skins/GreatSage/M_WindSplines_GreatSage_Wukong_Glowing_Inst02"
+			]
+		},
+		{
+			"ShaderMapHash": "465A8CEFC7B8DFFEC9D33D95E7724EFAAC9938B6",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "DFE3A3EF238F95D370F4939C2FA115746A75167D",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "8D42FEF172572FC12034FFBF57654DED75630B46",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/MuzzleFlashes/M_Wukong_Primary_Flash"
+			]
+		},
+		{
+			"ShaderMapHash": "A8387BF5B61E89F0C8637EF48EAE74978CAACA25",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_GreatSageWukong"
+			]
+		},
+		{
+			"ShaderMapHash": "966A91F56E1DE4BED139CB843820953B00A042AE",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Textures/Water/MI_WaterImpact_Cylinder_HugeInner"
+			]
+		},
+		{
+			"ShaderMapHash": "FF1145F6A7D2C96D666CB7F3A5DFD7F11B0D3512",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "136170F672E514B5A56F1E81B98769BE0B7F2836",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/Infernal/Materials/M_Wukong_Infernal_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "CA72D0F7944C4563C70D133F64977044A60EBE0B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A3CFCEF88DFFFA1CEF4F1CE99DF3868EBB2AB5C9",
+			"Assets": [
+				"/Game/MS_Stump/Master_Materials/Imperfection_MasterMaterial",
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "9AA5FFF8BA6A31D10F2DE13840E456A12AA074C8",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Heroes/M_Wukong_Smoke_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "987C4EF934B46AF77385E036CCB1154DB23FDE07",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_Staff"
+			]
+		},
+		{
+			"ShaderMapHash": "1DF8F9F9F010CBCDCC34358139F8E0698456B5E8",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_Wukong_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "41C209FBAB4912F5BB45AE7368EF13348DF6BB50",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "9CC9BCFB1252CD82B805F55F219E2DC1B1C5BCF4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F8EB18FCB9B01E644AB2679FE6ED001EA4D1741B",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Water/M_WaterImpact_Cylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "9BB7F8FC1CE95B7EE7CEDE3727ABF249936E9203",
+			"Assets": [
+				"/Game/SajeongjeonComplex/Cheonchujeon/Material/M_CCJ_PatternWallA_parts"
+			]
+		},
+		{
+			"ShaderMapHash": "6D2997FDAAE6969E35FF2A2211D2F7AA3E6B0D8C",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Skins/GreatSage/Materials/M_Wukong_Greatsage_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "9F7AA6FD9E1FB9EC7BC35C7BCF6EB83B7AA3F46F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "68E0EFFD8A1FC9B5A549D5B7AE81E30FBBC27F88",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Misc/M_SpeedTrails"
+			]
+		},
+		{
+			"ShaderMapHash": "444C22FE0FBB0757BF503804E2ADEF81C224F957",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Debris/M_Explosion_RockChunks"
+			]
+		},
+		{
+			"ShaderMapHash": "790B45FE4C64EB2DDBD93F0AE85CD9777AD99D9A",
+			"Assets": [
+				"/Game/ParagonSunWukong/Characters/Heroes/Wukong/Materials/M_EyelashMaster_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "5E2D41FF8561A64D87525AA931377226E7F240C7",
+			"Assets": [
+				"/Game/ParagonSunWukong/FX/Materials/Game/M_CleanseFlare"
+			]
+		}
+	]
+}
